@@ -13,3 +13,40 @@ Entrada: A entrada contém quatro números de ponto flutuante correspondentes à
 
 Saída: Todas as respostas devem ser apresentadas com uma casa decimal. As mensagens devem ser impressas conforme a descrição do problema. Não esqueça de imprimir o enter após o final de cada linha, caso contrário obterá "Presentation Error".
 """
+def calcular_media(n1, n2, n3,n4):
+    media = (n1 * 2 + n2 * 3 + n3 * 4 + n4 * 1) / 10
+    return media
+
+def verificar_media(media):
+    if media >= 7.0:
+        print("Aluno aprovado.")
+    elif media < 5.0:
+        print("Aluno reprovado.")
+    else:
+        print("Aluno em exame.")
+        nota_exame = float(input("Digite a nota do exame: "))
+        print(f"Nota do exame: {nota_exame:.1f}")
+        media_final = (media + nota_exame) / 2
+        if media_final >= 5.0:
+            print("Aluno aprovado.")
+        else:
+            print("Aluno reprovado.")
+
+        print(f"Media final: {media_final:.1f}")
+
+
+
+n1 = float(input("Digite a 1ª nota: "))
+n2 = float(input("Digite a 2ª nota: "))
+n3 = float(input("Digite a 3ª nota: "))
+n4 = float(input("Digite a 4ª nota: "))
+
+
+media = calcular_media(n1, n2, n3, n4)
+print(f"Media: {media:.1f}")
+
+verificar_media(media)
+
+
+
+

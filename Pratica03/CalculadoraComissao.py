@@ -9,3 +9,16 @@ montante total das vendas efetuadas por este vendedor, respectivamente.
 
 Saída: Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 """
+
+vendedor = input("Digite o nome do vendedor: ")
+salario_fixo = float(input("Digite o salário fixo: "))
+vendas = float(input("Digite o total de vendas efetuadas: "))
+
+
+comissao = vendas * 0.15
+
+
+total = salario_fixo + comissao
+
+print(f"O vendedor {vendedor} recebe o total de R$ {total:.2f}")
+
