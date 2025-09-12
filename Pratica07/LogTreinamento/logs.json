@@ -1,0 +1,62 @@
+[
+  {
+    "data_hora": "2025-09-11 10:00:01",
+    "modelo": "CNN",
+    "epoca": 1,
+    "tempo_execucao": 12.5
+  },
+  {
+    "data_hora": "2025-09-11 10:05:23",
+    "modelo": "CNN",
+    "epoca": 2,
+    "tempo_execucao": 11.8
+  },
+  {
+    "data_hora": "2025-09-11 10:10:47",
+    "modelo": "CNN",
+    "epoca": 3,
+    "tempo_execucao": 13.1
+  },
+  {
+    "data_hora": "2025-09-11 10:15:59",
+    "modelo": "CNN",
+    "epoca": 4,
+    "tempo_execucao": 12.9
+  },
+  {
+    "data_hora": "2025-09-11 10:21:20",
+    "modelo": "CNN",
+    "epoca": 5,
+    "tempo_execucao": 12.2
+  },
+  {
+    "data_hora": "2025-09-11 10:26:40",
+    "modelo": "CNN",
+    "epoca": 6,
+    "tempo_execucao": 13.4
+  },
+  {
+    "data_hora": "2025-09-11 10:32:05",
+    "modelo": "CNN",
+    "epoca": 7,
+    "tempo_execucao": 12.7
+  },
+  {
+    "data_hora": "2025-09-11 10:37:28",
+    "modelo": "CNN",
+    "epoca": 8,
+    "tempo_execucao": 11.9
+  },
+  {
+    "data_hora": "2025-09-11 10:42:55",
+    "modelo": "CNN",
+    "epoca": 9,
+    "tempo_execucao": 12.8
+  },
+  {
+    "data_hora": "2025-09-11 10:48:16",
+    "modelo": "CNN",
+    "epoca": 10,
+    "tempo_execucao": 13.0
+  }
+]
