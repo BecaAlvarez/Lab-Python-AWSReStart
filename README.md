@@ -17,13 +17,13 @@ O objetivo é praticar conceitos fundamentais da linguagem e aplicar em situaç�
   Scripts para realizar requisições HTTP (`GET`, `POST`) utilizando a biblioteca `requests`.
 
 - **04-ManipulacaoArquivos**  
-  Operações de leitura e escrita em arquivos, além de boas práticas para manipulação de dados.
+  Operações de leitura e escrita em arquivos utilizando as bibliotecas CSV e JSON, além de boas práticas para manipulação de dados.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3.12**
 - Bibliotecas padrão do Python
 - [Requests](https://pypi.org/project/requests/) (para consumo de APIs)
 
