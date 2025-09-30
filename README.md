@@ -17,7 +17,7 @@ O objetivo é praticar conceitos fundamentais da linguagem e aplicar em situaç�
   Scripts para realizar requisições HTTP (`GET`, `POST`) utilizando a biblioteca `requests`.
 
 - **04-ManipulacaoArquivos**  
-  Operações de leitura e escrita em arquivos utilizando as bibliotecas CSV e JSON, além de boas práticas para manipulação de dados.
+  Operações de leitura e escrita em arquivos utilizando as bibliotecas `CSV` e `JSON`, além de boas práticas para manipulação de dados.
 
 ---
 
